@@ -1,0 +1,34 @@
+-- 19.tblProduct.sql
+-- 비품목록  데이터
+insert into tblProduct values (seqProduct.nextVal,'출입카드',4,250,150,5000);
+insert into tblProduct values (seqProduct.nextVal,'랜선',1,50,30,2000);
+insert into tblProduct values (seqProduct.nextVal,'충전기',1,20,15,1000);
+insert into tblProduct values (seqProduct.nextVal,'사물함',2,200,100,3000);
+insert into tblProduct values (seqProduct.nextVal,'노트북',1,10,8,50000);
+insert into tblProduct values (seqProduct.nextVal,'웹캠',1,50,30,5000);
+insert into tblProduct values (seqProduct.nextVal,'usb',1,50,20,3000);
+insert into tblProduct values (seqProduct.nextVal,'커블와이더',6,50,20,5000);
+insert into tblProduct values (seqProduct.nextVal,'슬리퍼',6,200,100,1000);
+insert into tblProduct values (seqProduct.nextVal,'손소독제',5,30,20,2000);
+insert into tblProduct values (seqProduct.nextVal,'마커',8,20,10,1000);
+insert into tblProduct values (seqProduct.nextVal,'마이크',8,10,4,3000);
+insert into tblProduct values (seqProduct.nextVal,'무선프리젠터',8,10,100,5000);
+insert into tblProduct values (seqProduct.nextVal,'미니가습기',2,20,5,2000);
+insert into tblProduct values (seqProduct.nextVal,'슬리퍼',6,200,100,1000);
+insert into tblProduct values (seqProduct.nextVal,'블루라이트안경',6,80,30,4000);
+insert into tblProduct values (seqProduct.nextVal,'치약',7,20,5,500);
+insert into tblProduct values (seqProduct.nextVal,'미니선풍기',6,30,10,2000);
+insert into tblProduct values (seqProduct.nextVal,'볼펜',2,20,10,500);
+insert into tblProduct values (seqProduct.nextVal,'수정테이프',7,20,10,500);
+insert into tblProduct values (seqProduct.nextVal,'MSoffice',9,50,20,5000);
+insert into tblProduct values (seqProduct.nextVal,'exERD',9,50,20,5000);
+insert into tblProduct values (seqProduct.nextVal,'Eclipse',9,50,20,5000);
+insert into tblProduct values (seqProduct.nextVal,'SQLDeveloper',9,50,20,5000);
+insert into tblProduct values (seqProduct.nextVal,'프로그래밍서적',3,50,15,5000);
+insert into tblProduct values (seqProduct.nextVal,'자격증서적',3,50,5,5000);
+insert into tblProduct values (seqProduct.nextVal,'체온계',5,10,3,5000);
+insert into tblProduct values (seqProduct.nextVal,'우산',10,50,10,3000);
+insert into tblProduct values (seqProduct.nextVal,'우비',10,50,10,3000);
+insert into tblProduct values (seqProduct.nextVal,'담요',10,20,10,3000);
+insert into tblProduct values (seqProduct.nextVal,'손난로',10,50,20,3000);
+insert into tblProduct values (seqProduct.nextVal,'키보드',1,10,3,5000);
