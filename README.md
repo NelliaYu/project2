@@ -37,7 +37,8 @@
 - 더미 데이터 생성 - Java 활용	: DML Script(insert)
 - Text SQL 작성	: DML Script(select, insert, update, delete)
 - 뷰 생성
-- 함수, 프로시저 생성
+- 함수 생성
+- 프로시저 생성
 - 트리거 생성
 - 인덱스 생성
 
